@@ -7,3 +7,5 @@ to install requirements type `pip install -r requirements.txt`
 
 ## 
 Scott West is an author for the readme. 
+Ben Stephens and Morgaine Barter also have worked on this Readme.
+Let's add lots of interesting information here.  
